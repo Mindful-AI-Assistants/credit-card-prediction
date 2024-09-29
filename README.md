@@ -9,9 +9,7 @@ This repository focuses on building a predictive model to assess the likelihood 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/12187c72-c579-41e8-99ec-d3fc806e2995"/>
 
-
-
-**Credit Card Default Prediction**
+<br>
 
 Credit card default prediction involves using analytical approaches, such as data analysis techniques and statistical methods, to forecast the likelihood of an individual failing to repay their outstanding debt. This process typically includes:
 
