@@ -31,6 +31,10 @@ This approach helps financial institutions improve their credit granting process
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 - [Pedro Vyctor](https://github.com/ppvyctor)
 
+#
+
+##### <p align="center">Copyright 2024 Mindful-AI-Assistants. Code released under the  [MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
+
 
 
 
