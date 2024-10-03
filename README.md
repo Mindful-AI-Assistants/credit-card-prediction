@@ -1,6 +1,6 @@
 <br>
 
-# <p align="center">  Credit Card Defaults Prediction
+# <p align="center">  💳 Credit Card Defaults Prediction
 
 This repository aims to develop a predictive model for assessing credit card default risks, encompassing data analysis, feature engineering, and machine learning for accurate predictions.
 
