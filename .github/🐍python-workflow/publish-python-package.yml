@@ -1,8 +1,18 @@
+Sure! Here's the translation to English:
+
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by third parties and governed by
+# separate terms of service, privacy policy, and support
+# online.
+# GitHub recommends pinning actions to a commit SHA.
+# To get a newer version, you will need to update the SHA.
+# You can also reference a tag or branch, but the action may change without notice."""
+
+
 # Esse fluxo de trabalho usa ações que não são certificadas pelo GitHub.
 # São fornecidas por terceiros e regidas por
 # termos de serviço, política de privacidade e suporte separados
 # online.
-
 # O GitHub recomenda fixar ações em um SHA de commit.
 # Para obter uma versão mais recente, você precisará atualizar o SHA.
 # Você também pode fazer referência a uma marca ou branch, mas a ação pode ser alterada sem aviso.
