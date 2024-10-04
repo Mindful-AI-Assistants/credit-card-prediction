@@ -1,6 +1,5 @@
 #Test file for pytest. This example includes several test functions and uses pytest fixtures for setup and teardown.
 
-
 import pytest
 # Setup for configuration and cleanup
 @pytest.fixture
@@ -21,3 +20,4 @@ def test_key2(setup_data):
 # Test function without using the fixture
 def test_addition():
     assert 1 + 1 == 2
+    
