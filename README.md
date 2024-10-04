@@ -34,6 +34,12 @@ This approach helps financial institutions improve their credit granting process
 9. [Conclusion](#conclusion)
 10. [How to Run](#how-to-run)
 11. [Data Analysis Report](#data-analysis-report)
+12. [Contribute](#contribute)
+13. [GitHub Repository](#github-repository)
+14. [Contact](#contact)
+15. [References](#references)
+16. [License](#license)
+
 
 
 
