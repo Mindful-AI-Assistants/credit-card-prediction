@@ -1,12 +1,21 @@
-# To get started with Dependabot version updates, you'll need to specify which
-# package ecosystems to update and where the package manifests are located.
-# Please see the documentation for all configuration options:
-# https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+version: 2  
+updates:  
 
-version: 2
-updates:
-  - package-ecosystem: "" # See documentation for possible values
-    directory: "/" # Location of package manifests
-    schedule:
-      interval: "weekly"
+  # Configuração para dependências de Python (requirements.txt)  
+  - package-ecosystem: "pip"  # Usa pip para gerenciar dependências  
+    directory: "/"              # Diretório do projeto  
+    schedule:  
+      interval: "weekly"        # Atualiza semanalmente  
+    commit-message:  
+      prefix: "fix"             # Prefixo da mensagem de commit  
       
+
+  # Configuração para dependências de JavaScript (package.json)  
+  - package-ecosystem: "npm"  
+    directory: "/"  # Diretório onde está o package.json  
+    schedule:  
+      interval: "weekly"  # Verificações semanais  
+    commit-message:  
+      prefix: "fix"  # Prefixo na mensagem de commit  
+      include: "scope"  # Inclui o nome da dependência na mensagem  
+    versioning-strategy: "auto"  # Estratégia de versão
