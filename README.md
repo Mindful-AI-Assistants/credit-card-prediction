@@ -31,6 +31,10 @@ This approach helps financial institutions improve their credit granting process
 6. [Methodology](#methodology)
 7. [Results](#results)
 8. [Generated Graphs](#generated-graphs)
+9. [Conclusion](#conclusion)
+10. [How to Run](#how-to-run)
+11. [Data Analysis Report](#data-analysis-report)
+
 
 
 
