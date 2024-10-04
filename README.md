@@ -26,6 +26,12 @@ This approach helps financial institutions improve their credit granting process
 1. [Executive Summary](#executive-summary)
 2. [Introduction](#introduction)
 3. [Theoretical Framework](#theoretical-framework)
+4. [Dataset Description](#dataset-description)
+5. [Exploratory Data Analysis](#exploratory-data-analysis)
+6. [Methodology](#methodology)
+7. [Results](#results)
+8. [Generated Graphs](#generated-graphs)
+
 
 
 
