@@ -58,6 +58,10 @@ Predicting credit card defaults is crucial for financial institutions. It allows
 - **Definition of Default**  
   Default occurs when a customer fails to meet their financial obligations within the specified timeframe. For financial institutions, this represents a significant risk, as recovering the money owed can be difficult and costly.
 
+- **Credit Analysis and Predictive Modeling**  
+  Credit analysis evaluates a customer’s financial profile, while predictive modeling anticipates future behavior, such as the likelihood of default, based on historical data.
+
+
 
 
 
