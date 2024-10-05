@@ -41,6 +41,10 @@ This approach helps financial institutions improve their credit granting process
 16. [License](#license)
 
 
+## **Executive Summary**
+
+This project aims to predict credit card defaults using a **Logistic Regression** model. Our primary focus is identifying significant factors such as payment history, educational level, and customer age, which influence the likelihood of default. The results of this project will help financial institutions make better decisions regarding risk management.
+
 
 
 
