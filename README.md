@@ -4,6 +4,9 @@
 
 This repository aims to develop a predictive model for assessing credit card default risks, encompassing data analysis, feature engineering, and machine learning for accurate predictions.
 
+Credit card default prediction involves using analytical approaches, such as data analysis techniques and statistical methods, to forecast the likelihood of an individual failing to repay their outstanding debt. This process typically includes:
+
+
 <br>
 
  <p align="center">
@@ -11,7 +14,6 @@ This repository aims to develop a predictive model for assessing credit card def
 
 <br>
 
-Credit card default prediction involves using analytical approaches, such as data analysis techniques and statistical methods, to forecast the likelihood of an individual failing to repay their outstanding debt. This process typically includes:
 
 1. **Utilizing Alternative Variables**: Beyond traditional variables like income, assets, and payment history, incorporating geographical, behavioral, and consumption data can provide valuable insights into a customer's profile.
 2. **Individual Credit Scoring**: Treating credit scores at an individual level to better assess risk.
