@@ -10,17 +10,17 @@
 ### <p align="center"> 📉 The project predicts credit card default risk using data analysis and machine learning.
 
 
-This repository aims to develop a predictive model for assessing credit card default risks, encompassing data analysis, feature engineering, and machine learning for accurate predictions.
-
-Credit card default prediction involves using analytical approaches, such as data analysis techniques and statistical methods, to forecast the likelihood of an individual failing to repay their outstanding debt. This process typically includes:
-
-
 <br>
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/12187c72-c579-41e8-99ec-d3fc806e2995"/>
 
 <br>
+
+
+This repository aims to develop a predictive model for assessing credit card default risks, encompassing data analysis, feature engineering, and machine learning for accurate predictions.
+
+Credit card default prediction involves using analytical approaches, such as data analysis techniques and statistical methods, to forecast the likelihood of an individual failing to repay their outstanding debt. This process typically includes:
 
 
 1. **Incorporating Alternative Variables**: Adding geographical, behavioral, and consumption data to traditional factors like income, assets, and payment history enhances customer profiling.
