@@ -10,12 +10,12 @@
 ### <p align="center"> 📉 The project predicts credit card default risk using data analysis and machine learning.
 
 
-<br>
+<br><br>
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/12187c72-c579-41e8-99ec-d3fc806e2995"/>
 
-<br>
+<br><br>
 
 
 This repository aims to develop a predictive model for assessing credit card default risks, encompassing data analysis, feature engineering, and machine learning for accurate predictions.
