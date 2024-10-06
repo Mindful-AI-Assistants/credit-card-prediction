@@ -54,16 +54,16 @@ This strategy enables financial institutions to refine their credit granting pro
 16. [License](#license)
 
 
-## **Executive Summary**
+## [**Executive Summary**]()
 
 This project aims to predict credit card defaults using a **Logistic Regression** model. Our primary focus is identifying significant factors such as payment history, educational level, and customer age, which influence the likelihood of default. The results of this project will help financial institutions make better decisions regarding risk management.
 
 
-## **Introduction**
+## [**Introduction**]()
 
 Predicting credit card defaults is crucial for financial institutions. It allows them to better manage risks and prevent financial losses by identifying customers who are likely to default on their payments. This study uses a dataset of credit card customers and applies **Logistic Regression**, a common technique for binary classification, to predict default risk.
 
-## **Theoretical Framework**
+## [**Theoretical Framework**]()
 
 - **Definition of Default**  
   Default occurs when a customer fails to meet their financial obligations within the specified timeframe. For financial institutions, this represents a significant risk, as recovering the money owed can be difficult and costly.
