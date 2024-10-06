@@ -22,6 +22,7 @@ This repository aims to develop a predictive model for assessing credit card def
 
 Credit card default prediction involves using analytical approaches, such as data analysis techniques and statistical methods, to forecast the likelihood of an individual failing to repay their outstanding debt. This process typically includes:
 
+<br>
 
 1. **Incorporating Alternative Variables**: Adding geographical, behavioral, and consumption data to traditional factors like income, assets, and payment history enhances customer profiling.
 
