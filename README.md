@@ -32,6 +32,7 @@ Credit card default prediction involves using analytical approaches, such as dat
 
 This strategy enables financial institutions to refine their credit granting processes and manage risk more efficiently.
 
+<br>
 
 ## **Table of Contents**
 
