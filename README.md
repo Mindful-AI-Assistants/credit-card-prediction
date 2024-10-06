@@ -2,11 +2,13 @@
 
 <!--
 ## <p align="center"> <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50"> https://github.com/Mindful-AI-Assistants/credit-card-prediction
-### <p align="center">  💳 Credit Card Defaults Prediction
+### <p align="center">   Credit Card Defaults Prediction
 -->
 
 
-# <p align="center">  💳 Credit Card Defaults Prediction
+## <p align="center">  💳 Credit Card Defaults Prediction
+### <p align="center"> 📉 The project predicts credit card default risk using data analysis and machine learning.
+
 
 This repository aims to develop a predictive model for assessing credit card default risks, encompassing data analysis, feature engineering, and machine learning for accurate predictions.
 
