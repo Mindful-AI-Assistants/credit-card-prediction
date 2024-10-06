@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title:  MindfulAI ⚝ credit card prediction
+message: If you really want to cite this repository, here's how you should cite it.
+type: software
+authors:
+  - given-names: credit-card-prediction
+repository-code:https://github.com/Mindful-AI-Assistants/credit-card-prediction
+license: MIT License
