@@ -53,6 +53,7 @@ This strategy enables financial institutions to refine their credit granting pro
 15. [References](#references)
 16. [License](#license)
 
+<br>
 
 ## [**Executive Summary**]()
 
