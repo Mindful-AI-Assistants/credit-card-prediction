@@ -24,11 +24,11 @@ Credit card default prediction involves using analytical approaches, such as dat
 
 <br>
 
-1. **Incorporating Alternative Variables**: Adding geographical, behavioral, and consumption data to traditional factors like income, assets, and payment history enhances customer profiling.
+1. [**Incorporating Alternative Variables**](): Adding geographical, behavioral, and consumption data to traditional factors like income, assets, and payment history enhances customer profiling.
 
-2. **Individual Credit Scoring**: Evaluating credit scores on an individual basis for improved risk assessment.
+2. [**Individual Credit Scoring**](): Evaluating credit scores on an individual basis for improved risk assessment.
 
-3. **Behavioral Profile Analysis**: Assessing customer behavior to forecast potential defaults.
+3. [**Behavioral Profile Analysis**](): Assessing customer behavior to forecast potential defaults.
 
 This strategy enables financial institutions to refine their credit granting processes and manage risk more efficiently.
 
