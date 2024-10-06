@@ -1,17 +1,16 @@
-name: My Workflow
-
-on: [push, pull_request]
+name: Open new issue
+on: workflow_dispatch
 
 jobs:
-  build:
+  open-issue:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      pull-requests: write
-
+      issues: write
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
-
-    - name: Another step
-      run: echo "This is another step in your workflow"
+      - name: Create GitHub Issue
+        run: |
+          gh issue create --repo ${{ github.repository }} \
+          --title "Issue title" --body "Issue body"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
