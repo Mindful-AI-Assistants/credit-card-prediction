@@ -1,8 +1,8 @@
 <br>
 
 
-# <p align="center"> :octocat: https://github.com/Mindful-AI-Assistants/credit-card-prediction
-## <p align="center">  💳 Credit Card Defaults Prediction
+## <p align="center"> :octocat: https://github.com/Mindful-AI-Assistants/credit-card-prediction
+### <p align="center">  💳 Credit Card Defaults Prediction
 
 
 
