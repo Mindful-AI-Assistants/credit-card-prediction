@@ -90,6 +90,18 @@ The dataset contains information on credit card customers, with variables such a
 - **default payment next month**: Indicator of default in the following month (1 = yes, 0 = no).
 
 
+## **Exploratory Data Analysis**
+
+### Several visualizations were created to identify patterns in the data. Key insights include:
+
+- **Education**: Lower education levels are associated with higher default rates.
+- **Marital Status**: Single customers tend to default more than married customers.
+- **Age**: Younger customers have higher default rates.
+- **Credit Limit**: Lower credit limits are linked to higher default rates.
+- **Payment History**: Customers with a history of delayed payments are more likely to default.
+
+
+
 
 
 
