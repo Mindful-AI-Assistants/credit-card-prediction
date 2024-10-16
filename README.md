@@ -70,6 +70,11 @@ Predicting credit card defaults is crucial for financial institutions. It allows
 - **Credit Analysis and Predictive Modeling**  
   Credit analysis evaluates a customer’s financial profile, while predictive modeling anticipates future behavior, such as the likelihood of default, based on historical data.
 
+- **Logistic Regression**  
+  Logistic Regression is a statistical method used for binary classification problems (such as default or non-default). It calculates the probability of a customer defaulting based on specific features.
+
+---
+
 
 
 
