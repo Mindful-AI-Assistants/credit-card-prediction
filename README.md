@@ -78,7 +78,7 @@ Predicting credit card defaults is crucial for financial institutions. It allows
 
 
 
-## **Dataset Description**
+## [**Dataset Description**]()
 The dataset contains information on credit card customers, with variables such as:
 
 - **LIMIT_BAL**: Total credit amount granted.
@@ -90,7 +90,7 @@ The dataset contains information on credit card customers, with variables such a
 - **default payment next month**: Indicator of default in the following month (1 = yes, 0 = no).
 
 
-## **Exploratory Data Analysis**
+## [**Exploratory Data Analysis**]()
 
 ### Several visualizations were created to identify patterns in the data. Key insights include:
 
