@@ -103,6 +103,17 @@ The dataset contains information on credit card customers, with variables such a
 
 ## Here is the code in Python used to load, process, and analyze the data.
 
+### 
+
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import accuracy_score, confusion_matrix, classification_report, roc_auc_score
+```
 
 
 
