@@ -99,6 +99,9 @@ The dataset contains information on credit card customers, with variables such a
 - **Age**: Younger customers have higher default rates.
 - **Credit Limit**: Lower credit limits are linked to higher default rates.
 - **Payment History**: Customers with a history of delayed payments are more likely to default.
+  
+
+## Here is the code in Python used to load, process, and analyze the data.
 
 
 
