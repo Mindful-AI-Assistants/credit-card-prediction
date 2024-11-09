@@ -106,6 +106,8 @@ The dataset contains information on credit card customers, with variables such a
 ### 
 
 ```python
+copy code
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -120,6 +122,8 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 ### 👉🏻 Click here to get the [dataset](https://github.com/Mindful-AI-Assistants/credit-card-prediction/blob/3c2b535affd8448b5f925bec3d0346fa7d1722b9/Dataset/default%20of%20credit%20card%20clients.xls)
 
 ```pytho
+copy code
+
 path = r'/path/to/dataset.xls'
 defaults = pd.read_excel(path, engine="xlrd")
 ```
