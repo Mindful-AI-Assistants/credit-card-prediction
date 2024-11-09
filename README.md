@@ -199,7 +199,13 @@ model.fit(X_train, y_train)
 
 We evaluated the model’s performance using several metrics, including **accuracy**, a **confusion matrix**, and a **classification report**.
 
+```python
+copy code
 
+# Model evaluation
+y_train_pred = model.predict(X_train)
+y_test_pred = model.predict(X_test)
+```
 
 
 
