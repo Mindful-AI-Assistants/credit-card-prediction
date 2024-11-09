@@ -149,7 +149,13 @@ defaults["EDUCATION"] = defaults["EDUCATION"].apply(lambda x: 5 if x == 6 or x =
 defaults["MARRIAGE"] = defaults["MARRIAGE"].apply(lambda x: 3 if x == 0 else x)
 ```
 
+## **Methodology**
 
+### **Data Preparation**
+
+- **Cleaning and Preparation**: We removed irrelevant columns (e.g., `ID`) and sensitive variables (e.g., `SEX`).
+  
+- **Transformations**: Adjustments were made to ensure data consistency in `EDUCATION` and `MARRIAGE`.
 
 
 
