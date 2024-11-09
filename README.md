@@ -207,6 +207,14 @@ y_train_pred = model.predict(X_train)
 y_test_pred = model.predict(X_test)
 ```
 
+## Accuracy
+
+```python
+copy code
+
+train_accuracy = round(accuracy_score(y_train, y_train_pred) * 100, 2)
+test_accuracy = round(accuracy_score(y_test, y_test_pred) * 100, 2)
+```
 
 
 
