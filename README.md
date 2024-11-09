@@ -81,10 +81,9 @@ Predicting credit card defaults is crucial for financial institutions. It allows
 
 ## [**Dataset Description**]()
 
+#### 👉🏻 Click here to get the [dataset](https://github.com/Mindful-AI-Assistants/credit-card-prediction/blob/3c2b535affd8448b5f925bec3d0346fa7d1722b9/Dataset/default%20of%20credit%20card%20clients.xls)
+
 The dataset contains information on credit card customers, with variables such as:
-
-### 👉🏻 Click here to get the [dataset](https://github.com/Mindful-AI-Assistants/credit-card-prediction/blob/3c2b535affd8448b5f925bec3d0346fa7d1722b9/Dataset/default%20of%20credit%20card%20clients.xls)
-
 
 - **LIMIT_BAL**: Total credit amount granted.
 - **EDUCATION**: Education level of customers.
