@@ -67,7 +67,8 @@ Predicting credit card defaults is crucial for financial institutions. It allows
 
 ## [**Theoretical Framework**]()
 
-- **Definition of Default**  
+- **Definition of Default**
+- 
   Default occurs when a customer fails to meet their financial obligations within the specified timeframe. For financial institutions, this represents a significant risk, as recovering the money owed can be difficult and costly.
 
 - **Credit Analysis and Predictive Modeling**  
@@ -101,9 +102,11 @@ The dataset contains information on credit card customers, with variables such a
 - **Payment History**: Customers with a history of delayed payments are more likely to default.
   
 
-## Here is the code in Python used to load, process, and analyze the data.
+## The following Python code loads, processes, and analyzes the data.
 
-### 
+
+### 👉🏻 Click here to get the [dataset](https://github.com/Mindful-AI-Assistants/credit-card-prediction/blob/3c2b535affd8448b5f925bec3d0346fa7d1722b9/Dataset/default%20of%20credit%20card%20clients.xls)
+
 
 ```python
 copy code
@@ -118,8 +121,6 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 ```
 
 ## Load Dataset
-
-### 👉🏻 Click here to get the [dataset](https://github.com/Mindful-AI-Assistants/credit-card-prediction/blob/3c2b535affd8448b5f925bec3d0346fa7d1722b9/Dataset/default%20of%20credit%20card%20clients.xls)
 
 ```python
 copy code
