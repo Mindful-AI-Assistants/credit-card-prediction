@@ -240,6 +240,22 @@ print(classification_report(y_test, y_test_pred))
 
 The Logistic Regression model achieved an accuracy of approximately **80%**. The confusion matrix and classification report demonstrated that the model was able to differentiate between defaulters and non-defaulters with reasonable efficiency. 
 
+## **Generated Graphs**
+
+Here are the key visualizations, their corresponding code, and descriptions:
+
+### 1. **Default Distribution by Educational Level**
+
+```python
+# Plotting default rate by education level
+fig, ax = plt.subplots(figsize=(10, 6))
+sns.countplot(data=defaults, x="EDUCATION", hue="default payment next month", palette="viridis", ax=ax)
+ax.set_title("Default Distribution by Educational Level")
+ax.set_xlabel("Education Level")
+ax.set_ylabel("Count")
+ax.set_xticklabels(["Graduate School", "University", "High School", "Others", "Unknown"])
+plt.show()
+```
 
 
 
