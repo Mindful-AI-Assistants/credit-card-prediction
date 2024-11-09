@@ -226,6 +226,15 @@ sns.heatmap(matrix, annot=True, fmt='d', cmap='viridis')
 ```
 
 
+## Display evaluation metrics
+
+```python
+copy code
+
+print(f"Training Accuracy: {train_accuracy}%")
+print(f"Test Accuracy: {test_accuracy}%")
+print(classification_report(y_test, y_test_pred))
+```
 
 
 
