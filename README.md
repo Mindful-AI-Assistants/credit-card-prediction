@@ -263,7 +263,8 @@ plt.show()
 <br>
 
  <p align="center">
-<img src="https://github.com/user-attachments/assets/c04b1fa4-1a31-4b50-a9d2-87fd0fa3af69"n/>
+<img src="https://github.com/user-attachments/assets/c04b1fa4-1a31-4b50-a9d2-87fd0fa3af69" />
+   
 <br>
 
 ## 2. **Proportion of Defaulters and Non-Defaulters by Education**
@@ -282,7 +283,8 @@ plt.show()
 
 <br>
 
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/5b64ac02-eca3-47ee-80c0-fd3b7d17fdf8 "/>
 
 
 <br>
