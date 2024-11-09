@@ -302,7 +302,10 @@ plt.show()
 **Description**: This chart displays the distribution of defaults across different marital statuses, indicating that single individuals have a higher tendency to default compared to married individuals.
 
 <p align="center">
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/ba6effbe-02d2-4e29-94df-60bf24aa70e8"/>
+
+
+
 
 
 
