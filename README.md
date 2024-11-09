@@ -163,7 +163,7 @@ The data was split into training (80%) and testing (20%) sets. The model was tra
 
 ```python
 copycode
-```python
+
 # Split data into training and testing sets
 X = defaults.drop(columns=["MARRIAGE", "default payment next month"], axis=1)
 y = defaults["default payment next month"]
