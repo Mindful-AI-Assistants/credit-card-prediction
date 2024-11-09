@@ -162,13 +162,21 @@ defaults["MARRIAGE"] = defaults["MARRIAGE"].apply(lambda x: 3 if x == 0 else x)
 The data was split into training (80%) and testing (20%) sets. The model was trained using **Logistic Regression**, which is ideal for binary classification tasks such as predicting defaults.
 
 ```python
-copycode
+copy code
 
 # Split data into training and testing sets
 X = defaults.drop(columns=["MARRIAGE", "default payment next month"], axis=1)
 y = defaults["default payment next month"]
 ```
 
+## Standardize features
+
+```python
+copy code
+
+scaler = StandardScaler()
+X_scaled = pd.DataFrame(scaler.fit_transform(X), columns=X.columns)
+```
 
 
 
