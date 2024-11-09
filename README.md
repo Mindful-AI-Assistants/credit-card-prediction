@@ -266,8 +266,26 @@ plt.show()
 <img src="https://github.com/user-attachments/assets/c04b1fa4-1a31-4b50-a9d2-87fd0fa3af69"n/>
 <br>
 
+## 2. **Proportion of Defaulters and Non-Defaulters by Education**
+
+```python
+# Proportions of default vs non-default by education level using heatmap
+aux = defaults.copy()
+aux_education = aux.groupby("EDUCATION")["default payment next month"].value_counts(normalize=True).unstack()
+plt.figure(figsize=(8, 6))
+sns.heatmap(aux_education, annot=True, cmap="viridis", fmt=".2f")
+plt.title("Proportion of Defaulters and Non-Defaulters by Education")
+plt.show()
+```
+
+**Description**: This heatmap illustrates the proportions of defaulters and non-defaulters based on education levels. It reveals that higher education correlates with a lower probability of default.
+
+<br>
 
 
+
+
+<br>
 
 
 
