@@ -117,7 +117,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 
 ## Load Dataset
 
-👉🏻 Click here to get the [dataste]()
+👉🏻 Click here to get the [dataset]()
 
 ```pytho
 path = r'/path/to/dataset.xls'
