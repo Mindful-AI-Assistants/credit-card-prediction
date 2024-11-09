@@ -156,6 +156,11 @@ defaults["MARRIAGE"] = defaults["MARRIAGE"].apply(lambda x: 3 if x == 0 else x)
 - **Cleaning and Preparation**: We removed irrelevant columns (e.g., `ID`) and sensitive variables (e.g., `SEX`).
   
 - **Transformations**: Adjustments were made to ensure data consistency in `EDUCATION` and `MARRIAGE`.
+  
+
+## **Model Development**
+
+The data was split into training (80%) and testing (20%) sets. The model was trained using **Logistic Regression**, which is ideal for binary classification tasks such as predicting defaults.
 
 
 
