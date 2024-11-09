@@ -195,6 +195,10 @@ model = LogisticRegression(random_state=42, max_iter=2000)
 model.fit(X_train, y_train)
 ```
 
+## **Model Evaluation**
+
+We evaluated the model’s performance using several metrics, including **accuracy**, a **confusion matrix**, and a **classification report**.
+
 
 
 
