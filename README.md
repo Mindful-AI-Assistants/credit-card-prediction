@@ -257,15 +257,14 @@ ax.set_xticklabels(["Graduate School", "University", "High School", "Others", "U
 plt.show()
 ```
 
-<br>
 
 **Description**: This graph shows the distribution of defaults across different education levels, indicating that individuals with lower education levels tend to have a higher likelihood of defaulting on their payments.
+
 <br>
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/c04b1fa4-1a31-4b50-a9d2-87fd0fa3af69"n/>
-
-<br
+<br>
 
 
 
