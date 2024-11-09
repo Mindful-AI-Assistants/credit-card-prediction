@@ -115,6 +115,12 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report, roc_auc_score
 ```
 
+## Load dataset
+
+
+path = r'/path/to/dataset.xls'
+defaults = pd.read_excel(path, engine="xlrd")
+
 
 
 
