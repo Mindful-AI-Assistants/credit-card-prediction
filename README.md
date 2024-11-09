@@ -286,8 +286,32 @@ plt.show()
 <p align="center">
 <img src="https://github.com/user-attachments/assets/5b64ac02-eca3-47ee-80c0-fd3b7d17fdf8 "/>
 
-
 <br>
+
+## 3. **Default Distribution by Marital Status**
+
+```python
+# Plotting default rate by marital status
+plt.figure(figsize=(10, 6))
+sns.countplot(data=defaults, x="MARRIAGE", hue="default payment next month", palette="viridis")
+plt.title("Default Distribution by Marital Status")
+plt.xticks(ticks=[0, 1, 2], labels=["Married", "Single", "Other"])
+plt.show()
+```
+
+**Description**: This chart displays the distribution of defaults across different marital statuses, indicating that single individuals have a higher tendency to default compared to married individuals.
+
+<p align="center">
+<img src=""/>
+
+
+
+
+
+
+
+
+
 
 
 
