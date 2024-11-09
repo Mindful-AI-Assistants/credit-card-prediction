@@ -216,8 +216,14 @@ train_accuracy = round(accuracy_score(y_train, y_train_pred) * 100, 2)
 test_accuracy = round(accuracy_score(y_test, y_test_pred) * 100, 2)
 ```
 
+## Confusion Matrix
 
+```python
+copy code
 
+matrix = confusion_matrix(y_test, y_test_pred)
+sns.heatmap(matrix, annot=True, fmt='d', cmap='viridis')
+```
 
 
 
