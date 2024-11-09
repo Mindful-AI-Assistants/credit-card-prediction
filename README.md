@@ -117,10 +117,10 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 
 ## Load dataset
 
-
+```pytho
 path = r'/path/to/dataset.xls'
 defaults = pd.read_excel(path, engine="xlrd")
-
+```
 
 
 
