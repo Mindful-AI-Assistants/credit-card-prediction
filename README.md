@@ -105,7 +105,7 @@ The dataset contains information on credit card customers, with variables such a
 - **Payment History**: Customers with a history of delayed payments are more likely to default.
   
 
-## The following Python code loads, processes, and analyzes the data.
+## [The following Python code loads, processes, and analyzes the data.]()
 
 ```python
 copy code
