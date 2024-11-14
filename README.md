@@ -272,6 +272,8 @@ plt.show()
 ## 2. [**Proportion of Defaulters and Non-Defaulters by Education**]()
 
 ```python
+copy code
+
 # Proportions of default vs non-default by education level using heatmap
 aux = defaults.copy()
 aux_education = aux.groupby("EDUCATION")["default payment next month"].value_counts(normalize=True).unstack()
@@ -293,6 +295,8 @@ plt.show()
 ## 3. [**Default Distribution by Marital Status**]()
 
 ```python
+copy code
+
 # Plotting default rate by marital status
 plt.figure(figsize=(10, 6))
 sns.countplot(data=defaults, x="MARRIAGE", hue="default payment next month", palette="viridis")
