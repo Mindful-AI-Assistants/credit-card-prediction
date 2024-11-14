@@ -244,7 +244,7 @@ The ***Logistic Regression*** model achieved an accuracy of approximately **80%*
 
 ### Here are the key visualizations, their corresponding code, and descriptions:
 
-### 1. **Default Distribution by Educational Level**
+### 1. [**Default Distribution by Educational Level**]()
 
 ```python
 copy code
