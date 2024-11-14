@@ -238,7 +238,7 @@ print(classification_report(y_test, y_test_pred))
 
 ## [**Results**]()
 
-The Logistic Regression model achieved an accuracy of approximately **80%**. The confusion matrix and classification report demonstrated that the model was able to differentiate between defaulters and non-defaulters with reasonable efficiency. 
+The ***Logistic Regression*** model achieved an accuracy of approximately **80%**. The confusion matrix and classification report demonstrated that the model was able to differentiate between defaulters and non-defaulters with reasonable efficiency. 
 
 ## [**Generated Graphs**]()
 
