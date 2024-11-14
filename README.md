@@ -349,7 +349,7 @@ plt.show()
 **Description**: This graph indicates that the number of non-defaulters decreases more significantly with age, suggesting that older customers are less likely to default.
 
 <p align="center">
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/48e8fe17-4362-4e94-849c-d40833ccc12c"/>
 
 <br>
 
