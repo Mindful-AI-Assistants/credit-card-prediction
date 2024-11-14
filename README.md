@@ -332,6 +332,26 @@ plt.show()
 
 <br>
 
+### 5. **Default and Non-Default Rates by Age**
+
+```python
+copy code
+
+# Plotting default rate by age
+plt.figure(figsize=(17, 9))
+sns.countplot(data=defaults, x="AGE", hue="default payment next month", palette="viridis")
+plt.title("Default and Non-Default Rates by Age")
+plt.xlabel("Age")
+plt.ylabel("Count")
+plt.show()
+```
+
+**Description**: This graph indicates that the number of non-defaulters decreases more significantly with age, suggesting that older customers are less likely to default.
+
+<p align="center">
+<img src=""/>
+
+<br>
 
 
 
