@@ -195,7 +195,7 @@ model = LogisticRegression(random_state=42, max_iter=2000)
 model.fit(X_train, y_train)
 ```
 
-## **Model Evaluation**
+## [**Model Evaluation**]()
 
 We evaluated the model’s performance using several metrics, including **accuracy**, a **confusion matrix**, and a **classification report**.
 
@@ -207,7 +207,7 @@ y_train_pred = model.predict(X_train)
 y_test_pred = model.predict(X_test)
 ```
 
-## Accuracy
+## [Accuracy]()
 
 ```python
 copy code
