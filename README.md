@@ -157,7 +157,7 @@ defaults["MARRIAGE"] = defaults["MARRIAGE"].apply(lambda x: 3 if x == 0 else x)
 - **Transformations**: Adjustments were made to ensure data consistency in `EDUCATION` and `MARRIAGE`.
   
 
-## **Model Development**
+## [**Model Development**]()
 
 The data was split into training (80%) and testing (20%) sets. The model was trained using **Logistic Regression**, which is ideal for binary classification tasks such as predicting defaults.
 
@@ -169,7 +169,7 @@ X = defaults.drop(columns=["MARRIAGE", "default payment next month"], axis=1)
 y = defaults["default payment next month"]
 ```
 
-## Standardize features
+## [Standardize features]()
 
 ```python
 copy code
