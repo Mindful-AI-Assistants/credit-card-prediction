@@ -119,7 +119,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report, roc_auc_score
 ```
 
-## Load Dataset
+## [Load Dataset]()
 
 ```python
 copy code
@@ -247,6 +247,8 @@ Here are the key visualizations, their corresponding code, and descriptions:
 ### 1. **Default Distribution by Educational Level**
 
 ```python
+copy code
+
 # Plotting default rate by education level
 fig, ax = plt.subplots(figsize=(10, 6))
 sns.countplot(data=defaults, x="EDUCATION", hue="default payment next month", palette="viridis", ax=ax)
