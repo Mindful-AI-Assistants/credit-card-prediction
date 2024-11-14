@@ -311,11 +311,16 @@ plt.show()
 ### 4. [**Proportion of Defaulters by Marital Status**]()
 
 ```python
+copy code
+
 # Proportions of default vs non-default by marital status using heatmap
 aux_marriage = aux.groupby("MARRIAGE")["default payment next month"].value_counts(normalize=True).unstack()
 plt.figure(figsize=(8, 6))
-sns.heatmap(aux_marriage, annot=True, cmap="viridis", fmt=".
+sns.heatmap(aux_marriage, annot=True, cmap="viridis", fmt=".2f")
+plt.title("Proportion of Defaulters by Marital Status")
+plt.show()
 ```
+
 
 
 
