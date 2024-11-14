@@ -325,8 +325,10 @@ plt.title("Proportion of Defaulters by Marital Status")
 plt.show()
 ```
 
+**Description**: The heatmap displays the proportions of defaulters and non-defaulters categorized by marital status, showing minimal variation among the different groups.
 
-![4- Proporção de Adimplêntes e Inadimplêntes por Estado Civil](https://github.com/user-attachments/assets/9762e78a-e481-4ca1-a788-fcaa42d57cb0)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/9762e78a-e481-4ca1-a788-fcaa42d57cb0"/>
 
 <br>
 
