@@ -216,7 +216,7 @@ train_accuracy = round(accuracy_score(y_train, y_train_pred) * 100, 2)
 test_accuracy = round(accuracy_score(y_test, y_test_pred) * 100, 2)
 ```
 
-## Confusion Matrix
+## [Confusion Matrix]()
 
 ```python
 copy code
@@ -226,7 +226,7 @@ sns.heatmap(matrix, annot=True, fmt='d', cmap='viridis')
 ```
 
 
-## Display evaluation metrics
+## [Display evaluation metrics]()
 
 ```python
 copy code
@@ -240,7 +240,7 @@ print(classification_report(y_test, y_test_pred))
 
 The Logistic Regression model achieved an accuracy of approximately **80%**. The confusion matrix and classification report demonstrated that the model was able to differentiate between defaulters and non-defaulters with reasonable efficiency. 
 
-## **Generated Graphs**
+## [**Generated Graphs**]()
 
 ### Here are the key visualizations, their corresponding code, and descriptions:
 
