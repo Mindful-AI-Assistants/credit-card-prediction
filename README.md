@@ -236,13 +236,13 @@ print(f"Test Accuracy: {test_accuracy}%")
 print(classification_report(y_test, y_test_pred))
 ```
 
-## **Results**
+## [**Results**]()
 
 The Logistic Regression model achieved an accuracy of approximately **80%**. The confusion matrix and classification report demonstrated that the model was able to differentiate between defaulters and non-defaulters with reasonable efficiency. 
 
 ## **Generated Graphs**
 
-Here are the key visualizations, their corresponding code, and descriptions:
+### Here are the key visualizations, their corresponding code, and descriptions:
 
 ### 1. **Default Distribution by Educational Level**
 
