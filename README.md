@@ -326,6 +326,10 @@ plt.show()
 ```
 
 
+![4- Proporção de Adimplêntes e Inadimplêntes por Estado Civil](https://github.com/user-attachments/assets/9762e78a-e481-4ca1-a788-fcaa42d57cb0)
+
+<br>
+
 
 
 
