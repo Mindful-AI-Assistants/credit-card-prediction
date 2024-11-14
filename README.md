@@ -139,7 +139,7 @@ defaults.drop(index=0, inplace=True)
 defaults.index = list(range(30000))
 ```
 
-## Adjust variables for consistency
+## [Adjust variables for consistency]()
 
 ```python
 copy code
@@ -148,7 +148,7 @@ defaults["EDUCATION"] = defaults["EDUCATION"].apply(lambda x: 5 if x == 6 or x =
 defaults["MARRIAGE"] = defaults["MARRIAGE"].apply(lambda x: 3 if x == 0 else x)
 ```
 
-## **Methodology**
+## [**Methodology**]()
 
 ### **Data Preparation**
 
