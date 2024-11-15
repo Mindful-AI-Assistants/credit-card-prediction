@@ -269,7 +269,7 @@ plt.show()
    
 <br>
 
-## 2. [**Proportion of Defaulters and Non-Defaulters by Education**]()
+### 2. [**Proportion of Defaulters and Non-Defaulters by Education**]()
 
 ```python
 copy code
@@ -292,7 +292,7 @@ plt.show()
 
 <br>
 
-## 3. [**Default Distribution by Marital Status**]()
+### 3. [**Default Distribution by Marital Status**]()
 
 ```python
 copy code
