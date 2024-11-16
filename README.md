@@ -489,7 +489,7 @@ Future work could explore more complex modeling techniques, such as decision tre
 
 To run the project locally, follow these steps:
 
-1. **Clone the Repository**:
+1. [**Clone the Repository**]():
    
    ```bash
    git clone https://github.com/your-username/credit-card-default-prediction.git
@@ -497,7 +497,7 @@ To run the project locally, follow these steps:
    cd credit-card-default-prediction
    ```
 
-2. **Install Required Packages**:
+2. [**Install Required Packages**]():
    
    It's recommended to use a virtual environment. You can create one and install the required packages as follows:
    
@@ -509,7 +509,7 @@ To run the project locally, follow these steps:
    pip install -r
    ```
 
-3. **Run the Analysis**:
+3. [**Run the Analysis**]():
  
    Execute the analysis script to load the data and generate the graphs:
    
@@ -517,9 +517,15 @@ To run the project locally, follow these steps:
    python analysis.py
    ```
    
-4. **View Results**:
+4. [**View Results**]():
    
    Open the generated graphs and review the model evaluation metrics displayed in the console.
+
+<br>
+   
+## **Data Analysis Report**
+
+You can find the detailed analysis of this project in the **Data Analysis Report** [here](). This report provides comprehensive insights into the features, methodology, and model evaluation.
 
    
 
