@@ -360,9 +360,11 @@ plt.show()
 
 <br><br>
 
-### 6. **Default and Non-Default Rates by Credit Limit**
+### 6. [**Default and Non-Default Rates by Credit Limit**]()
 
 ```python
+copy code
+
 # Plotting default rate by credit limit quantiles
 aux['LIMIT_BAL_quantile'] = pd.qcut(defaults['LIMIT_BAL'], q=4, labels=["Up to 50,000", "50,000 to 140,000", "140,000 to 240,000", "Above 240,000"])
 plt.figure(figsize=(15, 8))
@@ -379,6 +381,20 @@ plt.show()
 <img src="https://github.com/user-attachments/assets/3fadddd7-8a49-4d25-816d-4bb882019dc0" />
 
 <br><br>
+
+### 7. [**Payment Status vs Default**]()
+
+```python
+copy code
+
+# Heatmap of payment status vs default
+fig, axes = plt.subplots(2, 3, figsize=(20, 12))
+months = ["April", "May", "June", "July", "August", "September"]
+for i, ax in enumerate(axes.flat):
+    sns.heatmap(data=proportion(defaults[[f"PAY_{i}", "default payment next month"]]), annot=True, cmap="viridis", fmt=".2f", ax=ax)
+    ax.set_title(f"Payment Status in {months[i]}")
+plt.show()
+```
 
 
 
