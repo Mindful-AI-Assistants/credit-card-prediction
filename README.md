@@ -490,11 +490,22 @@ Future work could explore more complex modeling techniques, such as decision tre
 To run the project locally, follow these steps:
 
 1. **Clone the Repository**:
+   
    ```bash
    git clone https://github.com/your-username/credit-card-default-prediction.git
+   
    cd credit-card-default-prediction
    ```
 
+2. **Install Required Packages**:
+   It's recommended to use a virtual environment. You can create one and install the required packages as follows:
+   
+   ```bash
+   python -m venv venv
+   
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   
+   pip install -r 
 
 
 
