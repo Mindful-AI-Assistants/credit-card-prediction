@@ -353,6 +353,19 @@ plt.show()
 
 <br>
 
+### 6. **Default and Non-Default Rates by Credit Limit**
+
+```python
+# Plotting default rate by credit limit quantiles
+aux['LIMIT_BAL_quantile'] = pd.qcut(defaults['LIMIT_BAL'], q=4, labels=["Up to 50,000", "50,000 to 140,000", "140,000 to 240,000", "Above 240,000"])
+plt.figure(figsize=(15, 8))
+sns.countplot(data=aux, x="LIMIT_BAL_quantile", hue="default payment next month", palette="viridis")
+plt.title("Default and Non-Default Rates by Credit Limit")
+plt.show()
+```
+
+
+
 
 
 
