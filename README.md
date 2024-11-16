@@ -529,6 +529,14 @@ You can find the detailed analysis of this project in the **Data Analysis Report
 
 <br>
 
+## **References**
+
+- [Logistic Regression Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)  
+- [Credit Card Default Dataset](https://docs.google.com/spreadsheets/d/1ybNfO5ZkwjsvY2KWfPX9qeraihBnKuAN/edit#gid=586)
+
+
+<br>
+
 ## [**Contribute**]()
 
 We welcome contributions to improve this project. If you'd like to contribute, follow these steps:
@@ -555,15 +563,14 @@ For any questions or suggestions, please feel free to reach out:
 - **Fabiana 🚀 Campanari** -[LinkedIn](linkedin.com/in/fabiana-campanari)
 - **Fabiana 🚀 Campanari** - [Contacts Hub](https://linktr.ee/fabianacampanari)
 
+<br>  
+
 - **Pedro 🛰️  Vyctor** - [email me]()
 - **Pedro 🛰️  Vyctor** -[LinkedIn]()
-   
 
 
+<br>
 
-
-
-<br><br>
 
 ## [Contributors]() 
 
