@@ -555,7 +555,8 @@ For any questions or suggestions, please feel free to reach out:
 - **Fabiana 🚀 Campanari** -[LinkedIn](linkedin.com/in/fabiana-campanari)
 - **Fabiana 🚀 Campanari** - [Contacts Hub](https://linktr.ee/fabianacampanari)
 
-
+- **Pedro 🛰️  Vyctor** - [email me]()
+- **Pedro 🛰️  Vyctor** -[LinkedIn]()
    
 
 
