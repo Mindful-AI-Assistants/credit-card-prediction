@@ -443,7 +443,7 @@ for i, ax in enumerate(axis.flat):
 plt.show()
 ```
 
-
+**Description**: These graphs reveal a consistent trend: higher previous payment amounts are associated with lower default rates, indicating that prior payment behavior can be a strong predictor of future defaults.
 
 <br>
 
@@ -456,6 +456,12 @@ plt.show()
 
 
 
+
+
+
+
+
+<br><br>
 
 ## [Contributors]() 
 
