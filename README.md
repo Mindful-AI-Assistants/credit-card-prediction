@@ -527,7 +527,7 @@ To run the project locally, follow these steps:
 
 You can find the detailed analysis of this project in the **Data Analysis Report** [here](https://github.com/Mindful-AI-Assistants/credit-card-prediction/blob/33090b435e01fa7357ffdf05d992f948ba6958f0/Data%20Analyse%20Report/Data%20Analysis%20Report%20-%20English.pdf). This report provides comprehensive insights into the features, methodology, and model evaluation.
 
-
+<br>
 
 ## [**Contribute**]()
 
@@ -538,6 +538,12 @@ We welcome contributions to improve this project. If you'd like to contribute, f
 3. Make your changes and commit them (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request, explaining the changes you made.
+
+<br>
+   
+## [**GitHub Repository**]()
+
+You can explore the project repository, access the code, and contribute on GitHub: [GitHub Repository Link](https://github.com/Mindful-AI-Assistants/credit-card-prediction)
 
 
    
