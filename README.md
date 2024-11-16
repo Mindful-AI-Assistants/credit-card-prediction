@@ -506,7 +506,7 @@ To run the project locally, follow these steps:
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    
    pip install -r 
-
+```
 
 
 
