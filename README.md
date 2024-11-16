@@ -371,6 +371,7 @@ plt.title("Default and Non-Default Rates by Credit Limit")
 plt.show()
 ```
 
+**Description**: This graph reveals a clear trend: as the credit limit increases, the probability of default decreases. Customers with lower credit limits are at a higher risk of defaulting
 
 <br>
 
