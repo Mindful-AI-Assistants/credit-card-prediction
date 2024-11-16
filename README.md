@@ -405,9 +405,11 @@ plt.show()
 
 <br><br>
 
-### 8. **Bill Amount Impact on Default**
+### 8. [**Bill Amount Impact on Default**]()
 
 ```python
+copy code
+
 # Plotting default rate by bill amount quantiles
 fig, axis = plt.subplots(6, 1, figsize=(25, 45))
 months = ["April", "May", "June", "July", "August", "September"]
@@ -420,6 +422,12 @@ plt.show()
 
 
 
+<br>
+
+<p align="center">
+<img src="" />
+
+<br><br>
 
 
 
