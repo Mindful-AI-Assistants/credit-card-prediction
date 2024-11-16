@@ -560,7 +560,7 @@ You can explore the project repository, access the code, and contribute on GitHu
 For any questions or suggestions, please feel free to reach out:
 
 - **Fabiana 🚀 Campanari** - [email me](mailto:fabicampanari@proton.me)
-- **Fabiana 🚀 Campanari** -[LinkedIn](linkedin.com/in/fabiana-campanari)
+- **Fabiana 🚀 Campanari** -[LinkedIn](https://www.linkedin.com/in/fabiana-campanari/)
 - **Fabiana 🚀 Campanari** - [Contacts Hub](https://linktr.ee/fabianacampanari)
 
 <br>  
