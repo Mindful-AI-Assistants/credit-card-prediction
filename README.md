@@ -405,6 +405,20 @@ plt.show()
 
 <br><br>
 
+### 8. **Bill Amount Impact on Default**
+
+```python
+# Plotting default rate by bill amount quantiles
+fig, axis = plt.subplots(6, 1, figsize=(25, 45))
+months = ["April", "May", "June", "July", "August", "September"]
+for i, ax in enumerate(axis.flat):
+    aux[f"BILL_AMT{i + 1}_quantiles"] = pd.qcut(defaults[f"BILL_AMT{i + 1}"], q=9)
+    sns.countplot(data=aux, x=f"BILL_AMT{i + 1}_quantiles", hue="default payment next month", palette="viridis", ax=ax)
+    ax.set_title(f"Bill Amount in {months[i]}")
+plt.show()
+```
+
+
 
 
 
