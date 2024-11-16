@@ -468,7 +468,14 @@ plt.ylabel('Actual')
 plt.show()
 ```
 
+**Description**: The confusion matrix shows a strong negative correlation between payment status and defaults, indicating that improvements in payment behavior could significantly reduce default risk.
 
+<br>
+
+<p align="center">
+<img src="
+
+<br><br>
 
 
 
