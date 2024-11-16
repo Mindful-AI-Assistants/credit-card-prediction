@@ -498,6 +498,7 @@ To run the project locally, follow these steps:
    ```
 
 2. **Install Required Packages**:
+   
    It's recommended to use a virtual environment. You can create one and install the required packages as follows:
    
    ```bash
@@ -505,8 +506,22 @@ To run the project locally, follow these steps:
    
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    
-   pip install -r 
-```
+   pip install -r
+   ```
+
+3. **Run the Analysis**:
+ 
+   Execute the analysis script to load the data and generate the graphs:
+   
+   ```bash
+   python analysis.py
+   ```
+   
+4. **View Results**:
+   
+   Open the generated graphs and review the model evaluation metrics displayed in the console.
+
+   
 
 
 
