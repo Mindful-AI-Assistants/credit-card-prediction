@@ -396,6 +396,14 @@ for i, ax in enumerate(axes.flat):
 plt.show()
 ```
 
+**Description**: This heatmap demonstrates that the default rate is consistently higher starting from the second month of payment delays, indicating a significant correlation between delayed payments and defaults.
+
+<br>
+
+
+
+
+<br><br>
 
 
 
