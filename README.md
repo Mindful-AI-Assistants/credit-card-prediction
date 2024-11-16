@@ -525,7 +525,7 @@ To run the project locally, follow these steps:
    
 ## **Data Analysis Report**
 
-You can find the detailed analysis of this project in the **Data Analysis Report** [here](). This report provides comprehensive insights into the features, methodology, and model evaluation.
+You can find the detailed analysis of this project in the **Data Analysis Report** [here](https://github.com/Mindful-AI-Assistants/credit-card-prediction/blob/33090b435e01fa7357ffdf05d992f948ba6958f0/Data%20Analyse%20Report/Data%20Analysis%20Report%20-%20English.pdf). This report provides comprehensive insights into the features, methodology, and model evaluation.
 
    
 
