@@ -420,7 +420,7 @@ for i, ax in enumerate(axis.flat):
 plt.show()
 ```
 
-
+**Description**: The charts illustrate that the differences in bill amounts between defaulters and non-defaulters are relatively subtle, suggesting these variables may not significantly affect the prediction of defaults on their own.
 
 <br>
 
