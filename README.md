@@ -475,9 +475,13 @@ plt.show()
 <p align="center">
 <img src="https://github.com/user-attachments/assets/9c8b5d97-0a67-47ec-9a05-e8734761be3c" />
 
-<br><br>
+<br>
 
+## [**Conclusion**]()
 
+In this project, we successfully built a Logistic Regression model to predict credit card defaults, achieving an accuracy of around **80%**. The exploratory data analysis highlighted significant predictors of default, including education level, marital status, age, and payment history. The findings underscore the importance of these factors in assessing credit risk.
+
+Future work could explore more complex modeling techniques, such as decision trees or ensemble methods, to enhance predictive accuracy. Additionally, incorporating more diverse datasets could improve the robustness of the model.
 
 
 
