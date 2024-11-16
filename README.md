@@ -452,6 +452,23 @@ plt.show()
 
 <br><br>
 
+### 10. [**Confusion Matrix**]()
+
+```python
+copy code
+
+# Plotting confusion matrix for model evaluation
+from sklearn.metrics import confusion_matrix
+plt.figure(figsize=(8, 6))
+matrix = confusion_matrix(y_test, y_test_pred)
+sns.heatmap(matrix, annot=True, fmt='d', cmap='viridis', xticklabels=['Non-Defaulter', 'Defaulter'], yticklabels=['Non-Defaulter', 'Defaulter'])
+plt.title('Confusion Matrix')
+plt.xlabel('Predicted')
+plt.ylabel('Actual')
+plt.show()
+```
+
+
 
 
 
