@@ -429,11 +429,28 @@ plt.show()
 
 <br><br>
 
+### 9. [**Previous Payments Impact on Default**]()
+
+```python
+copy code
+
+# Plotting default rate by previous payments quantiles
+fig, axis = plt.subplots(6, 1, figsize=(15, 40))
+for i, ax in enumerate(axis.flat):
+    aux[f"PAY_AMT{i + 1}_quantiles"] = pd.qcut(defaults[f"PAY_AMT{i + 1}"], q=4)
+    sns.countplot(data=aux, x=f"PAY_AMT{i + 1}_quantiles", hue="default payment next month", palette="viridis", ax=ax)
+    ax.set_title(f"Previous Payments in {months[i]}")
+plt.show()
+```
 
 
 
+<br>
 
+<p align="center">
+<img src="
 
+<br><br>
 
 
 
