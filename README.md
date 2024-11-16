@@ -545,9 +545,18 @@ We welcome contributions to improve this project. If you'd like to contribute, f
 
 You can explore the project repository, access the code, and contribute on GitHub: [GitHub Repository Link](https://github.com/Mindful-AI-Assistants/credit-card-prediction)
 
+<br>
+
+## [**Contact**]()
+
+For any questions or suggestions, please feel free to reach out:
+
+- **Fabiana 🚀 Campanari** - [email me](mailto:fabicampanari@proton.me)
+- **Fabiana 🚀 Campanari** -[LinkedIn](linkedin.com/in/fabiana-campanari)
+- **Fabiana 🚀 Campanari** - [Contacts Hub](https://linktr.ee/fabianacampanari)
+
 
    
-
 
 
 
