@@ -267,7 +267,7 @@ plt.show()
  <p align="center">
 <img src="https://github.com/user-attachments/assets/c04b1fa4-1a31-4b50-a9d2-87fd0fa3af69" />
    
-<br>
+<br><br>
 
 ### 2. [**Proportion of Defaulters and Non-Defaulters by Education**]()
 
@@ -290,7 +290,7 @@ plt.show()
 <p align="center">
 <img src="https://github.com/user-attachments/assets/5b64ac02-eca3-47ee-80c0-fd3b7d17fdf8 "/>
 
-<br>
+<br><br>
 
 ### 3. [**Default Distribution by Marital Status**]()
 
@@ -307,10 +307,13 @@ plt.show()
 
 **Description**: This chart displays the distribution of defaults across different marital statuses, indicating that single individuals have a higher tendency to default compared to married individuals.
 
+
+<br>
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ba6effbe-02d2-4e29-94df-60bf24aa70e8"/>
 
-<br>
+<br><br>
 
 ### 4. [**Proportion of Defaulters by Marital Status**]()
 
@@ -327,10 +330,12 @@ plt.show()
 
 **Description**: The heatmap displays the proportions of defaulters and non-defaulters categorized by marital status, showing minimal variation among the different groups.
 
+<br>
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/9762e78a-e481-4ca1-a788-fcaa42d57cb0"/>
 
-<br>
+<br><br>
 
 ### 5. [**Default and Non-Default Rates by Age**]()
 
@@ -348,10 +353,12 @@ plt.show()
 
 **Description**: This graph indicates that the number of non-defaulters decreases more significantly with age, suggesting that older customers are less likely to default.
 
+<br>
+
 <p align="center">
 <img src="https://github.com/user-attachments/assets/48e8fe17-4362-4e94-849c-d40833ccc12c"/>
 
-<br>
+<br><br>
 
 ### 6. **Default and Non-Default Rates by Credit Limit**
 
@@ -365,6 +372,11 @@ plt.show()
 ```
 
 
+<br>
+
+img
+
+<br><br>
 
 
 
