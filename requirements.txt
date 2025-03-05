@@ -1,7 +1,7 @@
 # Install Dependencies
 
 # Streamlit
-streamlit==1.42.2
+streamlit==1.43.0
 
 # Bibliotecas para manipulação de dados
 numpy==2.2.3
@@ -17,8 +17,12 @@ scipy==1.15.2
 scikit-learn==1.6.1
 
 # Bibliotecas para machine learning
+
 tensorflow==2.17.1
 keras==3.8.0
+tensorflow==2.17.0
+keras==3.9.0
+
 
 
 # Bibliotecas para web scraping
